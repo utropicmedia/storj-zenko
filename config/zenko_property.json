@@ -1,0 +1,5 @@
+{ 
+	"zenkoEndpoint": "zenkoS3EndPoint-without-http",
+    "accessKeyID": "zenkoS3AccessKey",
+    "secretAccessKey":"zenkoS3SecretAccessKey"
+}
